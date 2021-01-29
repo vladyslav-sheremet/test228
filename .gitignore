@@ -1,5 +1,5 @@
 /app
-/nodu_modules
+/node_modules
 .bowerrc
 package-lock.json
 package.json
