@@ -1,0 +1,6 @@
+/app
+/nodu_modules
+.bowerrc
+.package-lock.json
+.package.json
+gulpfile.js
